@@ -38,3 +38,7 @@ Use at your own discretion.
 ## Downloading / Installing / Using it
 
 Click on the [releases](https://github.com/MagmaGuy/GrayChat/releases) and follow the instructions there. They are quite simple.
+
+# Known issues
+
+To Brave browser users: Brave does not like that tampermonkey script. You will have to temporarily disable the brave shield on Youtube. You do that by going to Youtube and clicking the lion/shield icon in the url bar at the top of your browser and toggling it. The script should then be able to connect to the Casterlabs Caffeinated app.
